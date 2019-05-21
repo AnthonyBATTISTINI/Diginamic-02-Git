@@ -1,2 +1,4 @@
 ﻿premier commit
 
+commit sans stage
+
