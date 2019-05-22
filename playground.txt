@@ -12,5 +12,7 @@ commit après création de la première branche
 
 fusion de la première branche avec master
 
+commit sur la branche rebase
+
 commit après création de la branch rebase
 
